@@ -53,6 +53,7 @@ Some cloud platforms also provide free tiers that can host apps and databases:
 | [Google Cloud](https://cloud.google.com/free) | Free tier includes Compute Engine, Firebase, and serverless cloud functions.                             |
 | [Azure](https://azure.microsoft.com/en-us/free) | Microsoft Azure free account includes virtual machines, databases, and more.                            |
 | [Oracle Cloud](https://www.oracle.com/cloud/free/) | Free tier offers always-free instances and autonomous databases.                                        |
+| [ELECTROHAXZ Hosting](https://electrohaxz.host/) | [Free VCO plan](https://electrohaxz.host/vco) offers up to 16 CPU cores & 32 GB RAM w/ VCO device enrolled. [Vote](https://electrohaxz.host/vote) & [referral](https://electrohaxz.host/referral) bonuses offer free VPS resources based on referral count/vote streak completion, with or without VCO device. |
 
 ---
 
