@@ -40,6 +40,7 @@ If you prefer self-hosting your applications, these tools can help you set up a 
 | [CapRover](https://caprover.com/)  | Open-source PaaS that lets you deploy apps to your servers with a Heroku-like experience.                |
 | [Coolify](https://coolify.io/)     | Open-source and self-hosted platform for managing and deploying apps like Heroku.                        |
 | [Piku](https://github.com/piku/piku) | Minimalist and lightweight Heroku-like PaaS to deploy your apps on a single server or VPS.              |
+| [Easypanel](https://easypanel.io/) | Proprietary self-hosted control panel for deploying applications and databases. Free plan includes up to 3 projects with unlimited services and deployments; bring your own server (hosting costs are separate). |
 
 ---
 
