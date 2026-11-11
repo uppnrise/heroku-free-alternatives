@@ -27,6 +27,7 @@ Feel free to contribute to this list or suggest other tools!
 | [supabase.com](https://supabase.com/)           | Open-source Firebase alternative. Build backend infrastructure and databases with a generous free tier.                                             |
 | [vercel.com](https://vercel.com/)               | Perfect for static sites and frontend apps with free hosting, serverless functions, and seamless integration with GitHub.                            |
 | [withcoherence.com](https://www.withcoherence.com/) | Automates DevOps for early-stage teams focused on delivering value.                                                                                  |
+| [xcloud.host](https://xcloud.host/)           | Free control panel for your own server; deploy apps from Git and 1,000+ open-source apps in one click.                                                 |
 
 ---
 
